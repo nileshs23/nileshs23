@@ -1,7 +1,3 @@
-### Hi there 👋
-
--->
-
 <h1 align="center">Hi 👋, I'm Nilesh Solanki</h1>
 <h3 align="center">Full Stack Web Developer | India</h3>
 
@@ -9,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [nileshs23.github.io](nileshs23.github.io)
 
-- 📫 How to reach me **123@mail.com**
+- 📫 How to reach me **nilehs2398@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
