@@ -3,7 +3,8 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
- [![Linkedin Badge](https://img.shields.io/badge/-NileshSolankii-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/harshkumarkhatri/) 
+ [![Linkedin Badge](https://img.shields.io/badge/-NileshSolanki i-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshs2398/)](https://www.linkedin.com/in/nilehs2398/) 
+ 
 [![Gmail Badge](https://img.shields.io/badge/-nileshs2398@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nileshs2398@gmail.com)](mailto:nileshs2398@gmail.com)
 
 I am Nilesh Solanki😃. I am from Shirpur, Maharashtra and currently pursuing Full Stack Web Development From MASAI SCHOOL 🏫. I have completed BE in Computer Engineering form Sinhgad College of Engineering,Pune.
