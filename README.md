@@ -12,11 +12,12 @@ Talk to me about
 - Robust full-stack system design implementation
 - Backend application development using **Java | SQL**(Still learning)
 - Solving Data structure and algorithm questions in **Java and JavaScript**
+
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Read my blogs: [LinkedIn](https://www.linkedin.com/in/nilesh2398/)
+- 📫 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nilesh2398/)
 - 🎯 Portfolio site: [Portfolio](https://nileshs23.github.io/)
-- ⚡ Fun fact: Internet users blink less than usual.
+- ⚡ Fun fact: There are more than 5000 new computer viruses are released every month
 
 ## 💻 Tech stack
 <div style="display: inline-block">
