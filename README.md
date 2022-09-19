@@ -1,28 +1,38 @@
 <h1 align="center">Hi 👋, I'm Nilesh Solanki</h1>
 <h3 align="center">Full Stack Web Developer | India</h3>
 
-- 🌱 I’m currently learning **Java | Spring boot | SQL**
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-- 👨‍💻 All of my projects are available at [nileshs23.github.io](nileshs23.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-NileshSolanki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshs2398/)](https://www.linkedin.com/in/nileshs2398/) 
+[![Gmail Badge](https://img.shields.io/badge/-nileshs2398@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nileshs2398@gmail.com)](mailto:nileshs2398@gmail.com)
 
-- 📫 How to reach me **nilehs2398@gmail.com**
+I am Nilesh Solanki😃. I am from Shirpur, Maharashtra and currently pursuing Full Stack Web Development From MASAI SCHOOL 🏫. I have completed BE in Computer Engineering form Sinhgad College of Engineering,Pune.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nileshs2398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nileshs2398" height="30" width="40" /></a>
-</p>
+<!-- ## 👯 Communities
+* DSC Lead
+* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
+* Microsoft Student Learn Ambassador(MSP/MLSA)
+* Deeplearning.ai event ambassador
+* Management Team Lead at Voice Of Code
+* CSE Club at CPU
+* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
+* Internshala Student Partner-16 -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+## ⚡ Technologies
+Talk to me about
+- Front-end development using **HTML, Javascript,CSS,Bootstrap**
+- Backend development using **Spring Boot**
+- Robust full-stack system design implementation
+- Backend application development using **Java | SQL**(Still learning)
+- Solving Data structure and algorithm questions in **Java and JavaScript**
+## Hello World!! 🤔
+- 💬 Ask me about anything an everything.
+- 📫 Linked In : [Nilesh Solanki]([https://linkedin.](https://www.linkedin.com/in/nilesh2398/))
+- 🎯 Portfolio site: [Portfolio](https://nileshs23.github.io/)
+- ⚡ Fun fact: Internet users blink less than usual.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilehs23&show_icons=true&locale=en&layout=compact" alt="nilehs23" /></p>
+<!-- ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true) -->
+
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri) -->
+
+----
