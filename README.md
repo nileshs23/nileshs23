@@ -9,6 +9,16 @@
 
 I am Nilesh Solanki😃. I am from Shirpur, Maharashtra and currently pursuing Full Stack Web Development From MASAI SCHOOL 🏫. I have completed BE in Computer Engineering form Sinhgad College of Engineering,Pune.
 
+<!-- ## 👯 Communities
+* DSC Lead
+* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
+* Microsoft Student Learn Ambassador(MSP/MLSA)
+* Deeplearning.ai event ambassador
+* Management Team Lead at Voice Of Code
+* CSE Club at CPU
+* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
+* Internshala Student Partner-16 -->
+
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
@@ -18,7 +28,7 @@ Talk to me about
 - Solving Data structure and algorithm questions in **Java and JavaScript**
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
-- 📫 Linked In : [Nilesh Solanki]([https://linkedin.](https://www.linkedin.com/in/nilesh2398/))
+- 📫 Read my blogs: [LinkedIn](https://www.linkedin.com/in/nilesh2398/)
 - 🎯 Portfolio site: [Portfolio](https://nileshs23.github.io/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
