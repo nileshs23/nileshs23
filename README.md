@@ -3,30 +3,17 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--  [![Linkedin Badge](https://img.shields.io/badge/-NileshSolanki i-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nileshs2398/)](https://www.linkedin.com/in/nilehs2398/)  -->
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://nileshs23.github.io/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nilehs2398/)
-  
-[![Gmail Badge](https://img.shields.io/badge/-nileshs2398@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nileshs2398@gmail.com)](mailto:nileshs2398@gmail.com)
- 
-[![Visits Badge](https://badges.pufler.dev/visits/RahulMahesh62/RahulMahesh62?style=for-the-badge)](https://github.com/nileshs23)
-
+<p align="center">
+<a href="https://nileshs23.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/nilesh2398/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NileshSolanki-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nileshs2398@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nileshs2398@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-I am Nilesh Solanki😃. I am from Shirpur, Maharashtra and currently pursuing Full Stack Web Development From MASAI SCHOOL 🏫. I have completed BE in Computer Engineering form Sinhgad College of Engineering,Pune.
+------
 
-<!-- ## 👯 Communities
-* DSC Lead
-* Mentor at HackItShipIt(MLH), Hack for the people, HackinCodes
-* Microsoft Student Learn Ambassador(MSP/MLSA)
-* Deeplearning.ai event ambassador
-* Management Team Lead at Voice Of Code
-* CSE Club at CPU
-* CamPus Ambassador at Coding Ninja and Humanity Welfare Council
-* Internshala Student Partner-16 -->
+I am Nilesh Solanki😃. I am from Shirpur, Maharashtra and currently pursuing Full Stack Web Development From MASAI SCHOOL 🏫. I have completed BE in Computer Engineering form Sinhgad College of Engineering,Pune.
 
 ## ⚡ Technologies
 Talk to me about
@@ -41,8 +28,17 @@ Talk to me about
 - 🎯 Portfolio site: [Portfolio](https://nileshs23.github.io/)
 - ⚡ Fun fact: Internet users blink less than usual.
 
-<!-- ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=harshkumarkhatri&hide=["issues"]&show_icons=true) -->
+## 💻 Tech stack
+<div style="display: inline-block">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/html5/html5-original.svg" width="32px">
+<img src="https://raw.githubusercontent.com/b4dcat404/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="32px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mysql/mysql-original.svg" width="32px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/unity/unity-original.svg" width="32px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/linux/linux-original.svg" width="32px">
+<img src="https://github.com/b4dcat404/devicon/blob/master/icons/python/python-original.svg" width="32px">
+</div>
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkumarkhatri.harshkumarkhatri) -->
+<br>
+
 
 ----
