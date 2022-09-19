@@ -22,7 +22,6 @@ Talk to me about
 <div style="display: inline-block">
 <img src="https://github.com/b4dcat404/devicon/blob/master/icons/html5/html5-original.svg" width="32px">
   <img src="https://github.com/b4dcat404/devicon/blob/master/icons/css3/css3-original.svg" width="32px">
-<img src="https://raw.githubusercontent.com/b4dcat404/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" width="32px">
 <img src="https://github.com/b4dcat404/devicon/blob/master/icons/mysql/mysql-original.svg" width="32px">
 <img src="https://github.com/b4dcat404/devicon/blob/master/icons/javascript/javascript.svg" width="32px">
 <img src="https://github.com/b4dcat404/devicon/blob/master/icons/linux/linux-original.svg" width="32px">
