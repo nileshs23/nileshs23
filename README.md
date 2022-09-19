@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nilesh Solanki</h1>
-<h3 align="center">Full Stack Web Developer | India</h3>
+<h3 align="center">Full Stack Web Developer | Computer Engineer </h3>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://nileshs23.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/nilesh2398/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NileshSolanki-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:nileshs2398@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nileshs2398@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-------
 
 I am Nilesh Solanki😃. I am from Shirpur, Maharashtra and currently pursuing Full Stack Web Development From MASAI SCHOOL 🏫. I have completed BE in Computer Engineering form Sinhgad College of Engineering,Pune.
 
@@ -40,5 +30,14 @@ Talk to me about
 
 <br>
 
-
 ----
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+<a href="https://nileshs23.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/nilesh2398/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NileshSolanki-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nileshs2398@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nileshs2398@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+------
