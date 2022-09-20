@@ -28,6 +28,7 @@ I have Bachelor's in Computer Engineering from Sinhgad College of Engineering,Pu
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
 <img src="https://github.com/b4dcat404/devicon/blob/master/icons/mysql/mysql-original.svg" width="32px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+<a href= https://github.com/nileshs23?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/69167064/159184621-b6517495-69a3-41db-872c-aba74a4b4fd2.svg'> </a>
 <img src="https://github.com/b4dcat404/devicon/blob/master/icons/linux/linux-original.svg" width="40px">
 </div>
 
@@ -49,8 +50,25 @@ I have Bachelor's in Computer Engineering from Sinhgad College of Engineering,Pu
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshs23&layout=compact)](https://github.com/nileshs23/github-readme-stats)
-[![nileshs23's GitHub stats](https://github-readme-stats.vercel.app/api?username=nileshs23&show_icons=true&count_private=true&theme=vue)](https://github.com/nileshs23/github-readme-stats)
 
-----
+ <h3>Projects and Dev Stuffs: </h3> <!--<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> -->
 
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nileshs23&show_icons=true&&count_private=true&include_all_commits=true&theme=vue" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshs23&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8"/>
+</details>
+
+<details>	
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nileshs23" width="400em" height="200em" />
+  <h6><em>NOTE: This does not indicate my skill level or language proficiency, it's merely a GitHub metric of which languages I have the most code of on GitHub.
+    </em></h6>
+ 
+</details>
+
+  <img width="100%" height = "270em" src="https://kentsustainability.co.uk/wp-content/uploads/2019/08/KS-1.gif" alt="cover" />
+  
