@@ -4,7 +4,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 I am Nilesh Solanki😃. I am from Shirpur, Maharashtra and currently pursuing Full Stack Web Development From MASAI SCHOOL 🏫. 
-I have Bachelors in Computer Engineering from Sinhgad College of Engineering,Pune.
+I have Bachelor's in Computer Engineering from Sinhgad College of Engineering,Pune.
 
 ## ⚡ About Me
 - 🌱 I’m currently learning **Spring**
@@ -33,13 +33,8 @@ I have Bachelors in Computer Engineering from Sinhgad College of Engineering,Pun
 
 <br>
 
-----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshs23&layout=compact)](https://github.com/nileshs23/github-readme-stats)
-[![nileshs23's GitHub stats](https://github-readme-stats.vercel.app/api?username=nileshs23&show_icons=true&count_private=true&theme=vue)](https://github.com/nileshs23/github-readme-stats)
 
 ----
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
@@ -48,10 +43,14 @@ I have Bachelors in Computer Engineering from Sinhgad College of Engineering,Pun
 <a href="https://nileshs23.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-Portfolio-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/nilesh2398/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-NileshSolanki-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:nileshs2398@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nileshs2398@gmail.com-blue?style=flat-square&logo=gmail"></a>
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/Solanki2Nilesh.svg?style=social&label=Follow%20%40Solanki2Nilesh)](https://twitter.com/Solanki2Nilesh)
+<a href="https://twitter.com/Solanki2Nilesh"><img alt="Email" src="https://img.shields.io/twitter/url/https/twitter.com/Solanki2Nilesh.svg?style=social&label=Follow%20%40Solanki2Nilesh"></a>
+
 </p>
 
-------
+----
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshs23&layout=compact)](https://github.com/nileshs23/github-readme-stats)
+[![nileshs23's GitHub stats](https://github-readme-stats.vercel.app/api?username=nileshs23&show_icons=true&count_private=true&theme=vue)](https://github.com/nileshs23/github-readme-stats)
 
+----
 
