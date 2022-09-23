@@ -20,17 +20,9 @@ I have Bachelor's in Computer Engineering from Sinhgad College of Engineering,Pu
 - ⚡ Fun fact: There are more than 5000 new computer viruses are released every month
 
 ## 💻 Tech stack
-<div style="display: inline-block">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/html5/html5-original.svg" width="40px">
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/css3/css3-original.svg" width="40px">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/mysql/mysql-original.svg" width="32px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-<a href= https://github.com/nileshs23?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' src ='https://user-images.githubusercontent.com/69167064/159184621-b6517495-69a3-41db-872c-aba74a4b4fd2.svg'> </a>
-<img src="https://github.com/b4dcat404/devicon/blob/master/icons/linux/linux-original.svg" width="40px">
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,hibernate,spring,aws,mysql,bash,github,git,vscode&theme=light)](https://skillicons.dev)
+
+
 
 <br>
 
