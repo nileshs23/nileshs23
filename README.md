@@ -4,7 +4,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 I am Nilesh Solanki😃. I am from Shirpur, Maharashtra and currently pursuing Full Stack Web Development From MASAI SCHOOL 🏫. 
-I have completed my Bachelor's Degree in Computer Engineering from Sinhgad College of Engineering,Pune.
+</br>
+I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from Sinhgad College of Engineering,Pune.
 
 ## ⚡ About Me
 - 🌱 I’m currently learning **Spring**
@@ -21,8 +22,6 @@ I have completed my Bachelor's Degree in Computer Engineering from Sinhgad Colle
 
 ## 💻 Tech stack
 [![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,hibernate,spring,aws,mysql,bash,github,git,vscode&theme=light)](https://skillicons.dev)
-
-
 
 <br>
 
