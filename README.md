@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Nilesh Solanki</h1>
+
 <h3 align="center">Full Stack Web Developer | Computer Engineer </h3>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
 
 I am Nilesh Solanki😃. I am from Shirpur, Maharashtra and currently pursuing Full Stack Web Development From MASAI SCHOOL 🏫. 
 </br>
 I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from Sinhgad College of Engineering,Pune.
 
-## ⚡ About Me
-- 🌱 I’m currently learning **Spring**
+## ⚡ About Me  <img src="https://komarev.com/ghpvc/?username=nileshs23&label=Profile%20views&color=0e75b6&style=flat" alt="04psm" /> 
+
+- 🌱 I’m currently learning **Spring Boot**
 - Front-end development using **HTML, Javascript,CSS,Bootstrap**
 - Robust full-stack system design implementation
 - Backend application development using **Java **(Still learning)
@@ -20,13 +23,13 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from S
 - 🎯 Portfolio site: [Portfolio](https://nileshs23.github.io/)
 - ⚡ Fun fact: There are more than 5000 new computer viruses are released every month
 
-## 💻 Tech stack
+## 💻 Tech stack  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h3>
 [![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,hibernate,spring,aws,mysql,bash,github,git,vscode&theme=light)](https://skillicons.dev)
 
 <br>
 
 ----
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"></h3>
 
 <p align="center">
 
@@ -42,6 +45,7 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from S
 
 
  <h3>Projects and Dev Stuffs: </h3> <!--<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> -->
+ 
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -62,3 +66,4 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from S
 
   <img width="100%" height = "270em" src="https://kentsustainability.co.uk/wp-content/uploads/2019/08/KS-1.gif" alt="cover" />
   
+ <!-- ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif) --!>
