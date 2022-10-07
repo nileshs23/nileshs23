@@ -25,7 +25,6 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from S
 
 <br>
 
-
 ----
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
