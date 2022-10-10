@@ -11,11 +11,12 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from S
 
 ## ⚡ About Me  <img src="https://komarev.com/ghpvc/?username=nileshs23&label=Profile%20views&color=0e75b6&style=flat" alt="04psm" /> 
 
-- 🌱 I’m currently learning **Spring Boot**
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Robust full-stack system design implementation
-- Backend application development using **Java **(Still learning)
-- Solving Data structure and algorithm questions in **Java and JavaScript**
+- 🌱 I’m currently learning **Spring Boot**.
+- Front-end development using **HTML, Javascript,CSS,Bootstrap**.
+- Back-end using **Spring Boot, Maven, Hybernate, SQL**.
+- Robust full-stack system design implementation.
+- Backend application development using **Java**.
+- Solving Data structure and algorithm questions in **Java and JavaScript**.
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything an everything.
