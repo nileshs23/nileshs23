@@ -26,7 +26,7 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from S
 
 ## 💻 Tech stack  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h3>
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,maven,hibernate,spring,aws,mysql,bash,github,git,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,maven,hibernate,spring,aws,mysql,netlify,bash,github,git,vscode&theme=light)](https://skillicons.dev)
 
 <br>
 
