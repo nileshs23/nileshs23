@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilesh Solanki</h1>
  
-<h3 align="center">Full Stack Web Developer | Computer Engineer </h3>
+<h3 align="center">Java Backend Developer  |  Computer Engineer  </h3>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -24,7 +24,8 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from S
 - ⚡ Fun fact: There are more than 5000 new computer viruses are released every month
 
 ## 💻 Tech stack  <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h3>
-[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,hibernate,spring,aws,mysql,bash,github,git,vscode&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,py,html,css,maven,hibernate,spring,aws,mysql,bash,github,git,vscode&theme=light)](https://skillicons.dev)
 
 <br>
 
