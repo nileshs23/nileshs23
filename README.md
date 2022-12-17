@@ -51,14 +51,17 @@ I have completed my Bachelor's Degree in<b> 💻 Computer Engineering </b>from S
 
 
  <h3>Projects and Dev Stuffs: </h3> <!--<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> -->
- 
+
+
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nileshs23&show_icons=true&&count_private=true&include_all_commits=true&theme=vue" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshs23&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nileshs23&exclude_repo=KNN-Image-Classification&show_icons=true&layout=compact&langs_count=6"/>
+ 
+
 </details>
 
 <details>	
